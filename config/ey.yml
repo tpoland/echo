@@ -1,0 +1,3 @@
+environments:
+  mongo_test:
+    precompile_assets: true
