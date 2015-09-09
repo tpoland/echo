@@ -1,3 +1,5 @@
 environments:
   mongo_test:
     precompile_assets: true
+  mongo_clone:
+    precompile_assets: true
